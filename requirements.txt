@@ -4,7 +4,7 @@ einops==0.8.0
 transformers==4.43.3
 huggingface-hub
 diffusers==0.30.1
-sentencepiece==0.2.0
+sentencepiece==0.2.1
 gradio==5.22.0
 opencv-python
 matplotlib
